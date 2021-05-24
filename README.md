@@ -1,7 +1,8 @@
 # Handke IoT
 im currently working on an IoT application for my NodeMCUs (ESP12F)
 
-##
+## about my setup / hardware configuration
+I am using NodeMCU dev boards and custom designed pcb's to build my LED "Driver". I got an Docker instance running on my Raspberry Pi 4B (4GB RAM). 
 
 ## Features
 - RGB and RGBW led strip 
