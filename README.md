@@ -16,5 +16,9 @@ im currently working on an IoT application for my NodeMCUs (ESP12F)
 - automatic updates via php script on a Raspberry pi
 - 
 
+# Todo
+[x] sadf
+
+
 ## About me / why dont i use Tasmota or ESP-Home?
 back in 2018, i started (coding) a little bit HTML, CSS and Javascript. After that i got used to the whole microcontroller universe like the Arduino Nano or the NodeMCU. So i started to try some examples of the Arduino IDE. But i couldn´t code anything on my own. I decided to learn c++ (Arduino) to code my own IoT application. Now (some years later) i´m very proud of my IoT application. Currently im working on rev4, by the way: i had to rewrite the whole projekt 3 times because of my learning progress and my beginner-mistakes( odd coding, bad Variable-names and so on) :D. In the beginning it was more or less a project for learning purposes but became after some time very nice and usefull for my Room ^^
