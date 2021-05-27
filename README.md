@@ -24,8 +24,8 @@ I am using NodeMCU dev boards and custom designed pcb's to build my LED "Driver"
 - [ ] update via php on RPi
 
 ```c++
-if(asdf){
-    print("Hello, World!");
+if(you_can_read_this){
+    print("WOW, YOU`RE A HUMAN");
 }
 ```
 
