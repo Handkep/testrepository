@@ -19,6 +19,7 @@ I am using NodeMCU dev boards and custom designed pcb's to build my LED "Driver"
 
 ## Todo
 - [x] implement PCF8574
+- [ ] configuration file update (for configuring the PCF8574 and other little things)
 - [ ] PCF8574 input button
 - [ ] update via php on RPi
 
